@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">formgdg</string>
+    <string name="tv1">Bhopal Coders Community VIPs (Volunteer in Progress)</string>
+    <string name="tv2">Bhopal Coders Community, is the backbone of the Tech Communities in Bhopal, such as Google Developers Group, Bhopal and Developer Circles from Facebook. Our efforts are aligned towards making Bhopal, a Technology Hub. We\'re looking for individuals enthusiastic about the Impact, Technology can bring.For any queries, text us on WhatsApp:
+Sameer Khan: +918120266490
+
+(* Required) </string>
+    <string name="tv3">Email address *</string>
+    <string name="tv4">Name *</string>
+    <string name="tv5">College/Organization *</string>
+    <string name="tv6">Year of Study? *</string>
+    <string-array name="years">
+
+        <item>1st Year</item>
+        <item>2nd Year</item>
+        <item>3rd Year</item>
+        <item>4th Year</item>
+        <item>5th Year</item>
+        <item>Professional</item>
+    </string-array>
+    <string name="tv7">Mobile Number *</string>
+    <string name="tv8">Gender *</string>
+    <string name="tv9">What\'s your Area of Expertise? *</string>
+    <string name="tv10">Technologies you are good at? *</string>
+    <string name="tv11">Specializations you are working in? *</string>
+    <string name="tv12">Your LinkedIn Profile</string>
+    <string name="tv13">Your GitHub Profile</string>
+    <string name="tv14">Link to your Resume</string>
+    <string name="reaching_out_companies_colleges">Reaching Out (Companies/Colleges)</string>
+    <string name="designing">Designing</string>
+    <string name="marketing">Marketing</string>
+    <string name="writing">Writing</string>
+    <string name="programming">Programming</string>
+    <string name="management">Management</string>
+    <string name="answer1">Your Answer</string>
+    <string name="answer2">Your Answer</string>
+    <string name="answer3">Your Answer</string>
+    <string name="your_email">Your Email</string>
+    <string name="answer4">Your Answer</string>
+    <string name="answer5">Your Answer</string>
+    <string name="answer6">Your Answer</string>
+    <string name="answer7">Your Answer</string>
+    <string name="quantum_computing">Quantum Computing</string>
+    <string name="cloud_computing">Cloud Computing</string>
+    <string name="data_science_ml_dl">Data Science / ML / DL</string>
+    <string name="software_development">Software Development</string>
+    <string name="app_development">App Development</string>
+    <string name="web_development">Web Development</string>
+    <string name="other1">Other</string>
+    <string name="php">PHP</string>
+    <string name="sql_nosql">SQL / NoSQL</string>
+    <string name="html_css">HTML + CSS</string>
+    <string name="react">React</string>
+    <string name="javascript">JavaScript</string>
+    <string name="python">Python</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="other">Other</string>
+    <string name="answer8">Your Answer</string>
+    <string name="tv15">Why do you want to join VIP Programme, and be a Volunteer? *</string>
+    <string name="tv16">Share your past experience in which you have worked along side a community? *</string>
+    <string name="tv17">Anything you\'d like to tell us about you?</string>
+    <string name="tv18">Name of the person who referred you for this?</string>
+    <string name="btn">Submit</string>
+    <string name="tv19">Age</string>
+
+</resources>
